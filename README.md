@@ -14,8 +14,8 @@ Linux · Python (automation) · Kubernetes · Argo — based in Amsterdam, build
 - **[wordsworth](https://github.com/MWest2020/wordsworth)** — Sovereign pipeline turning government documents into a searchable, privacy-safe corpus (EUPL-1.2). PoC under construction.
 - **[estafette](https://github.com/MWest2020/estafette)** — Mechanically assess whether a proof of concept is transferable, and report it. EUPL-1.2.
 - **[skill-forge](https://github.com/MWest2020/skill-forge)** — Local CLI pipeline that distills sources into reusable SKILL.md files.
-- **[zeef](https://github.com/MWest2020/zeef)** — zeef — open-source convergentietool voor de Woo: van ~1000 semi-relevante documenten naar een navolgbare kernselectie (e-discovery/TAR-aanpak). Fase 2 van het Woo-proces.
 - **[homelab](https://github.com/MWest2020/homelab)**
+- **[workstation-security](https://github.com/MWest2020/workstation-security)**
 <!-- selected-work:end -->
 
 Most projects are spec-first (OpenSpec) and licensed EUPL-1.2.
