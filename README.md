@@ -12,10 +12,10 @@ Linux · Python (automation) · Kubernetes · Argo — based in Amsterdam, build
 <!-- selected-work:start -->
 - **[habitat](https://github.com/MWest2020/habitat)** — Minimaal platform voor autonome Claude Code-agents binnen harde grenzen op een thuiscluster (EUPL-1.2).
 - **[wordsworth](https://github.com/MWest2020/wordsworth)** — Sovereign pipeline turning government documents into a searchable, privacy-safe corpus (EUPL-1.2). PoC under construction.
-- **[estafette](https://github.com/MWest2020/estafette)** — Mechanically assess whether a proof of concept is transferable, and report it. EUPL-1.2.
 - **[skill-forge](https://github.com/MWest2020/skill-forge)** — Local CLI pipeline that distills sources into reusable SKILL.md files.
 - **[homelab](https://github.com/MWest2020/homelab)**
 - **[workstation-security](https://github.com/MWest2020/workstation-security)**
+- **[iso-audit](https://github.com/MWest2020/iso-audit)** — ISO 9001/27001 audit pipeline — sources/sinks/notifiers protocol-driven (refactor van Ops_to_Biz/audit/).
 <!-- selected-work:end -->
 
 Most projects are spec-first (OpenSpec) and licensed EUPL-1.2.
