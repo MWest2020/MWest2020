@@ -11,11 +11,11 @@ Linux · Python (automation) · Kubernetes · Argo — based in Amsterdam, build
 
 <!-- selected-work:start -->
 - **[wordsworth](https://github.com/MWest2020/wordsworth)** — Sovereign pipeline turning government documents into a searchable, privacy-safe corpus (EUPL-1.2). PoC under construction.
-- **[habitat](https://github.com/MWest2020/habitat)** — Minimaal platform voor autonome Claude Code-agents binnen harde grenzen op een thuiscluster (EUPL-1.2).
+- **[internetnl-cli](https://github.com/MWest2020/internetnl-cli)**
 - **[homelab](https://github.com/MWest2020/homelab)**
-- **[skill-forge](https://github.com/MWest2020/skill-forge)** — Local CLI pipeline that distills sources into reusable SKILL.md files.
+- **[habitat](https://github.com/MWest2020/habitat)** — Minimaal platform voor autonome Claude Code-agents binnen harde grenzen op een thuiscluster (EUPL-1.2).
 - **[workstation-security](https://github.com/MWest2020/workstation-security)**
-- **[zeef](https://github.com/MWest2020/zeef)** — zeef — open-source convergentietool voor de Woo: van ~1000 semi-relevante documenten naar een navolgbare kernselectie (e-discovery/TAR-aanpak). Fase 2 van het Woo-proces.
+- **[versum](https://github.com/MWest2020/versum)** — Gedeelde verhaalwereld over de langzame ondergang van de mensheid — docs-as-code, CC BY-SA 4.0.
 <!-- selected-work:end -->
 
 Most projects are spec-first (OpenSpec) and licensed EUPL-1.2.
