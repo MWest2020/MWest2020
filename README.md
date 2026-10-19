@@ -11,8 +11,8 @@ Linux · Python (automation) · Kubernetes · Argo — based in Amsterdam, build
 
 <!-- selected-work:start -->
 - **[homelab](https://github.com/MWest2020/homelab)**
-- **[wordsworth](https://github.com/MWest2020/wordsworth)** — Sovereign pipeline turning government documents into a searchable, privacy-safe corpus (EUPL-1.2). PoC under construction.
 - **[Wanderer](https://github.com/MWest2020/Wanderer)** — Sovereignty checker for larger organisations that lost their way.
+- **[wordsworth](https://github.com/MWest2020/wordsworth)** — Sovereign pipeline turning government documents into a searchable, privacy-safe corpus (EUPL-1.2). PoC under construction.
 - **[internetnl-cli-demo](https://github.com/MWest2020/internetnl-cli-demo)** — Runnable demo + how-it-works page for internetnl-cli and the netnl batch-API facade.
 - **[internetnl-cli](https://github.com/MWest2020/internetnl-cli)** — Command-line client for the Internet.nl batch API: measure a fleet of domains for IPv6, DNSSEC, RPKI and TLS, gate your CI on the result, or run your own instance.
 - **[habitat](https://github.com/MWest2020/habitat)** — Minimaal platform voor autonome Claude Code-agents binnen harde grenzen op een thuiscluster (EUPL-1.2).
